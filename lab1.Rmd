@@ -234,3 +234,4 @@ In the upper right you should see a tab labeled `Git`.  Click on that to see a l
 
 To save changes to github, check the box of any file to add/update.  Then click on the `Commit` link (just above path).  In the pop-up window add a Commit message (something meaningful that identifies the changes made).  When done, click on Commit to save the changes.  Click on the Green Up arrow to `push` your changes to Github.
 
+Note:  Update 8/29/2019  we are still waiting on the github classroom permissions, so you will not be able to push your changes to the class organization site.
