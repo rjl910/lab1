@@ -27,10 +27,9 @@ Ready?
 ## Start R-Studio
 
 If you have a StatSci account,   
-   1) Open RStudio on Saxon  [https://saxon.stat.duke.edu:8787](http://saxon.stat.duke.edu:8787) and login with your Duke netid and password.
-   2) Clone the repository through the following link  
-   and accept the invitation.  This will create a repository  https://github.com/STA521-F19/lab1
-   3) Create a new Project.  In RStudio, click on New Project in the file menu.  Select Version Control, then Git. Enter https://github.com/STA521-F19/lab1.git (replace with your username on github) in the  Repository URL field, provide a name for the project, e.g. 'lab1', and select a directory to save your work, e.g. Lab1    We suggest that you make a folder for STA521 to save your work for the course.
+    1) Go to the main page for the repository https://github.com/STA521-F19/lab1  and click on the button  to clone or download on the right hand side.  Copy the link.
+   2) Open RStudio on Saxon  [https://saxon.stat.duke.edu:8787](http://saxon.stat.duke.edu:8787) and login with your Duke netid and password.
+   3) Create a new Project.  In RStudio, click on New Project in the file menu.  Select Version Control, then Git. Enter the link you copied in Step 1 or type in https://github.com/STA521-F19/lab1.git  in the  Repository URL field, provide a name for the project, e.g. 'lab1', and select a directory to save your work, e.g. Labs    We suggest that you make a folder for STA521 to save your work for the course.
   4) On the lower right panel in RStudio, click on the Files tab. You should see a listing of the files in your directory. Click on `lab1.Rmd` to open it in the RStudio editor and then follow instructions there.  
   
   For more on getting started using RStudio and git see the [StatSci ComputingBootcamp slides](https://github.com/DukeStatSci/ComputingBootcamp2018/blob/master/slides/computing_bootcamp_2018.Rmd) and other materials at  [StatSci ComputingBootcamp](https://github.com/DukeStatSci/ComputingBootcamp2018/)
