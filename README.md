@@ -27,7 +27,7 @@ Ready?
 ## Start R-Studio
 
 If you have a StatSci account,   
-   1) Open RStudio on Saxon  [http://saxon.stat.duke.edu:8787](http://saxon.stat.duke.edu:8787) and login with your Duke netid and password.
+   1) Open RStudio on Saxon  [https://saxon.stat.duke.edu:8787](http://saxon.stat.duke.edu:8787) and login with your Duke netid and password.
    2) Clone the repository through the following link  
    and accept the invitation.  This will create a repository  https://github.com/STA521-F19/lab1
    3) Create a new Project.  In RStudio, click on New Project in the file menu.  Select Version Control, then Git. Enter https://github.com/STA521-F19/lab1.git (replace with your username on github) in the  Repository URL field, provide a name for the project, e.g. 'lab1', and select a directory to save your work, e.g. Lab1    We suggest that you make a folder for STA521 to save your work for the course.
