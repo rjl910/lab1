@@ -8,7 +8,7 @@ In this lab
 * demonstrate RNotebooks  (for more info see the [RStudio page](http://rmarkdown.rstudio.com/r_notebooks.html#version_control))
 
 
-For why Reproducible Research is important read https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/, [Yihui's post](https://yihui.name/en/2012/06/enjoyable-reproducible-research/)  (and watch the video in the blog about what happened at Duke when Reproducible Research was not used!) or review CaseStudies from the 
+For why Reproducible Research is important read [Yihui's post](https://yihui.name/en/2012/06/enjoyable-reproducible-research/)  (and watch the video in the blog https://www.youtube.com/watch?v=eV9dcAGaVU8 about what happened at Duke when Reproducible Research was not used!) or https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/,  or review CaseStudies from the 
 (StatSci Computing Bootcamp)[https://github.com/DukeStatSci/computing-bootcamp-2018]
 
 ## Preliminaries
